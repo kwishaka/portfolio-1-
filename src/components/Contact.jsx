@@ -18,7 +18,7 @@ export default function Contact() {
       </ul>
       <li>
           <a href={profile.linkedin} target="_blank" rel="noreferrer">
-            linkedin:https://www.linkedin.com/in/sandrine-ukwishaka-367120324
+            linkedin: https://www.linkedin.com/in/sandrine-ukwishaka-367120324
           </a>
         </li>
     </section>
