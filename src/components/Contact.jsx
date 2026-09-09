@@ -16,10 +16,10 @@ export default function Contact() {
         </li>
         <li>
           <a href={profile.linkedin} target="_blank" rel="noreferrer">
-            LinkedIn: https://www.linkedin.com/in/sandrine-ukwishaka-367120324/
+             https://www.linkedin.com/in/sandrine-ukwishaka-367120324/
           </a>
         </li>
-        <li>{profile.phone}0793329512</li>
+        <li>{profile.phone}</li>
 
       </ul>
     </section>
