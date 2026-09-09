@@ -11,10 +11,16 @@ export default function Contact() {
       <ul className="contact-list">
         <li>
           <a href={profile.github} target="_blank" rel="noreferrer">
-            GitHub:https://github.com/kwishaka
+            GitHub: https://github.com/kwishaka
           </a>
         </li>
-        <li>{profile.phone}</li>
+        <li>
+          <a href={profile.linkedin} target="_blank" rel="noreferrer">
+            LinkedIn: https://www.linkedin.com/in/sandrine-ukwishaka-367120324/
+          </a>
+        </li>
+        <li>{profile.phone}0793329512</li>
+
       </ul>
     </section>
   );
