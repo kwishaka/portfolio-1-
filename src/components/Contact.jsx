@@ -14,13 +14,13 @@ export default function Contact() {
             GitHub: https://github.com/kwishaka
           </a>
         </li>
-        <li>
+    
+      </ul>
+      <li>
           <a href={profile.linkedin} target="_blank" rel="noreferrer">
-            https://www.linkedin.com/in/sandrine-ukwishaka-367120324
+            linkedin:https://www.linkedin.com/in/sandrine-ukwishaka-367120324
           </a>
         </li>
-
-      </ul>
     </section>
   );
 }
