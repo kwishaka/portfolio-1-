@@ -25,9 +25,6 @@ export default function App() {
         <Education />
         <Skills />
         <Contact />
-        <footer className="footer">
-          <p>Built with React and shipped from Kigali.</p>
-        </footer>
       </main>
     </>
   );

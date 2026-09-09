@@ -3,7 +3,7 @@ import { profile } from "../content";
 export default function Contact() {
   return (
     <section id="contact" className="section">
-      <h3 className="section-heading">Contact</h3>
+      <h3 className="section-heading"> Contact:0793329512</h3>
       <p className="contact-line">
         Reach out about internships, roles, or collaboration —{" "}
         <a href={`mailto:${profile.email}`}>{profile.email}</a>
@@ -16,7 +16,7 @@ export default function Contact() {
         </li>
         <li>
           <a href={profile.linkedin} target="_blank" rel="noreferrer">
-            LinkedIn
+            LinkedIn: https://www.linkedin.com/in/sandrine-ukwishaka-367120324
           </a>
         </li>
 
